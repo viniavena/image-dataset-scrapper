@@ -1,0 +1,1 @@
+In this repository I implemented bot to automatically download bulk images from Google Images and save them for a dataset.
